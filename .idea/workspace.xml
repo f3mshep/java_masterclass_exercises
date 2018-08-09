@@ -2,29 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1124f834-e773-4049-bc27-360513e99ce6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/sec_7/Addition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sec_7/Bed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sec_7/Bedroom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sec_7/Charger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sec_7/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sec_7/ComputerPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sec_7/DeluxeBurger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sec_7/Hamburger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sec_7/HealthyBurger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sec_7/Mustang.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sec_7/Subaru.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sec_7/Topping.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sec_7/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sec_7/Window.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sec_8/ArrayChallenge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sec_8/MinElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sec_8/Reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sec_8/Bank.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_masterclass.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java_masterclass.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_masterclass/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_masterclass/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_masterclass/java_masterclass.iml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_masterclass/java_masterclass.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sec_7/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sec_7/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sec_7/Main.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -50,24 +29,24 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="44" />
+          <entry key="java" value="45" />
           <entry key="kt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="44" />
+          <entry key="JAVA" value="45" />
           <entry key="Kotlin" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="8352" />
+          <entry key="java" value="10163" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="8352" />
+          <entry key="JAVA" value="10163" />
         </counts>
       </usages-collector>
     </session>
@@ -77,8 +56,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/sec_8/ArrayChallenge.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+            <state relative-caret-position="321">
+              <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="57" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#170#171#0" expanded="true" />
@@ -91,8 +70,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/sec_8/MinElement.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="484">
-              <caret line="32" column="43" lean-forward="true" selection-start-line="32" selection-start-column="43" selection-end-line="32" selection-end-column="43" />
+            <state relative-caret-position="199">
+              <caret line="32" selection-start-line="32" selection-end-line="39" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#118#119#0" expanded="true" />
@@ -102,11 +81,34 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/sec_8/Reverse.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+            <state relative-caret-position="190">
+              <caret line="10" column="35" lean-forward="true" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/sec_8/Bank.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1463">
+              <caret line="107" lean-forward="true" selection-start-line="107" selection-end-line="107" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#64#72#0" expanded="true" />
+                <element signature="e#150#151#0" expanded="true" />
+                <element signature="e#173#174#0" expanded="true" />
+                <element signature="e#170#180#0" expanded="true" />
+                <element signature="e#227#235#0" expanded="true" />
+                <element signature="e#322#323#0" expanded="true" />
+                <element signature="e#354#355#0" expanded="true" />
+                <element signature="e#1018#1019#0" expanded="true" />
+                <element signature="e#1038#1039#0" expanded="true" />
+                <element signature="e#996#997#0" expanded="true" />
+                <element signature="e#1061#1062#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -136,8 +138,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/sec_5/OverloadChallenge.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="20" selection-start-line="20" selection-end-line="23" selection-end-column="5" />
+            <state relative-caret-position="494">
+              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
             </state>
           </provider>
         </entry>
@@ -186,6 +188,7 @@
         <option value="$PROJECT_DIR$/src/sec_8/ArrayChallenge.java" />
         <option value="$PROJECT_DIR$/src/sec_8/MinElement.java" />
         <option value="$PROJECT_DIR$/src/sec_8/Reverse.java" />
+        <option value="$PROJECT_DIR$/src/sec_8/Bank.java" />
       </list>
     </option>
   </component>
@@ -281,7 +284,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533828720925" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533833987225" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -298,9 +301,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Reverse">
+  <component name="RunManager" selected="Application.Bank">
     <configuration name="ArrayChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayChallenge" />
+      <module name="java_masterclass" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Bank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bank" />
       <module name="java_masterclass" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -327,27 +337,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SecondsAndMinutes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SecondsAndMinutes" />
-      <module name="java_masterclass" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.SecondsAndMinutes" />
       <item itemvalue="Application.Mustang" />
       <item itemvalue="Application.ArrayChallenge" />
       <item itemvalue="Application.MinElement" />
       <item itemvalue="Application.Reverse" />
+      <item itemvalue="Application.Bank" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Bank" />
         <item itemvalue="Application.Reverse" />
         <item itemvalue="Application.MinElement" />
         <item itemvalue="Application.ArrayChallenge" />
         <item itemvalue="Application.Mustang" />
-        <item itemvalue="Application.SecondsAndMinutes" />
       </list>
     </recent_temporary>
   </component>
@@ -379,12 +382,12 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39954337" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39891893" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.26890758" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.2681081" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="TMC Test Results" order="10" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32972974" />
@@ -601,13 +604,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sec_5/OverloadChallenge.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" selection-start-line="20" selection-end-line="23" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/sec_7/Bedroom.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
@@ -619,29 +615,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sec_7/Window.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sec_8/ArrayChallenge.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#170#171#0" expanded="true" />
-            <element signature="e#206#207#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/sec_8/MinElement.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="32" column="43" lean-forward="true" selection-start-line="32" selection-start-column="43" selection-end-line="32" selection-end-column="43" />
+        <state relative-caret-position="199">
+          <caret line="32" selection-start-line="32" selection-end-line="39" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#118#119#0" expanded="true" />
@@ -650,10 +627,57 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/sec_7/Window.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/sec_8/Reverse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        <state relative-caret-position="190">
+          <caret line="10" column="35" lean-forward="true" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sec_5/OverloadChallenge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sec_8/ArrayChallenge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="57" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#170#171#0" expanded="true" />
+            <element signature="e#206#207#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sec_8/Bank.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1463">
+          <caret line="107" lean-forward="true" selection-start-line="107" selection-end-line="107" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#64#72#0" expanded="true" />
+            <element signature="e#150#151#0" expanded="true" />
+            <element signature="e#173#174#0" expanded="true" />
+            <element signature="e#170#180#0" expanded="true" />
+            <element signature="e#227#235#0" expanded="true" />
+            <element signature="e#322#323#0" expanded="true" />
+            <element signature="e#354#355#0" expanded="true" />
+            <element signature="e#1018#1019#0" expanded="true" />
+            <element signature="e#1038#1039#0" expanded="true" />
+            <element signature="e#996#997#0" expanded="true" />
+            <element signature="e#1061#1062#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
